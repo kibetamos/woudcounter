@@ -8,9 +8,10 @@
 <!--<h1>Hy yes you </h1>-->
 <!--<h1>Welcome {{name}}</h1>-->
 <!--<h1>Your age is  {{age}}</h1>-->
-<!--<h1>and ypure from {{nationality}}</h1>-->
+<!--<h1>and youre from {{nationality}}</h1>-->
 <h1>Input your text here to find the count</h1>
-<form action="counter" method="">
+<form action="counter" method="POST">
+    {% csrf_token %}
     <textarea name="text" rows="25" cols="80">
 
     </textarea></br>

@@ -18,6 +18,6 @@ def index(request):
 def counter(request):
     # this gets the words from the name of the form in the index.html
     # if e change the name of the text are , we have o change the variable as well
-    text = request.GET['text']
+    text = request.POST['text']
     number_of_words = len(text.split())
     return render(request, 'counter.html', {'amount': number_of_words})
