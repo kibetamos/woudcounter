@@ -16,7 +16,9 @@ Navigate to the Venus app where the Django project is set up.
 
  - Make sure you have all the required libraries installed.
 
- - Run the following command: python3 manage.py runserver.
+ - Run the following command:
+ 
+    - python3 manage.py runserver.
    
  - Open your local browser and access 127.0.0.1:8000
    
