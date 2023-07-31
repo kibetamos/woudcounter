@@ -20,7 +20,7 @@ Navigate to the Venus app where the Django project is set up.
  
     - python3 manage.py runserver.
    
- - Open your local browser and access
+ - Open your local browser and access:
    
     - 127.0.0.1:8000
    
