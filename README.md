@@ -4,7 +4,7 @@ This is a simple word counter application using pythonThis is a simple word coun
 # How to set up
 This is a simple word counter application using pythonThis is a simple word counter application using pythonThis is a simple word counter application using python
 
-#How to run the project
+# How to run the project
 
 Navigate to the Venus app where the Django project is set up.
  Install the requirements file by executing the necessary command.
