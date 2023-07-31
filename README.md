@@ -12,7 +12,7 @@ Navigate to the Venus app where the Django project is set up.
 
  - Install the requirements file by executing the necessary command.
    
-    -pip install -r requirements.txt
+    - pip install -r requirements.txt
 
  - Make sure you have all the required libraries installed.
 
