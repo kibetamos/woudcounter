@@ -10,7 +10,7 @@ This is a simple word counter application using pythonThis is a simple word coun
 Navigate to the Venus app where the Django project is set up.
 
 - Clone the project:
-  
+
     -git clone https://github.com/kibetamos/wordcounter.git
 
  - Install the requirements file by executing the necessary command.
