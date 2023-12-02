@@ -1,7 +1,8 @@
 # Wordcounter Project 
 
 This is a simple word counter application using pythonThis is a simple word counter application using pythonThis is a simple word counter application using python
-# How to set up
+
+## How to set up
 
 This is a simple word counter application using pythonThis is a simple word counter application using pythonThis is a simple word counter application using python
 
