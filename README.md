@@ -7,7 +7,6 @@ This is a simple word counter application using pythonThis is a simple word coun
 This is a simple word counter application using pythonThis is a simple word counter application using pythonThis is a simple word counter application using python
 
 ## How to run the project Locally
-
 Navigate to the Venus app where the Django project is set up.
 
 - Clone the project:
