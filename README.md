@@ -26,4 +26,5 @@ Navigate to the Venus app where the Django project is set up.
  - Open your local browser and access:
    
     - 127.0.0.1:8000
+    - 
  - Access 127.0.0.8000 on your local browser
